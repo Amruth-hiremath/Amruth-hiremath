@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=435&lines=Hi%2C+I'm+Amruthesh+C+Hiremath!👋;Welcome+to+my+GitHub+Profile!;Developer+%7C+Tech+Enthusiast" alt="Typing Animation" />
 
+
+
+
   <br/>
 
-  <img src="https://private-user-images.githubusercontent.com/74038190/240820725-a754eac4-5a8b-4e8f-922b-aff555400790.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAyNTcyOTQsIm5iZiI6MTc1MDI1Njk5NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjA3MjUtYTc1NGVhYzQtNWE4Yi00ZThmLTkyMmItYWZmNTU1NDAwNzkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE4VDE0Mjk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlYzMwYWRkNjdkMThmMzI3YjZkYWI2ZGMxYWM4NjlkNDg2NGFjZjAyMGYzMTI4NDY3NWY5MDZmY2I1NDI1NTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kMmlG1chDD19KmBr8y8MYSUUcjsqLR8APuFpRwx257Q" width="450" height="250"/>
+  <img src="gif.gif" width="450" height="250"/>
 
   <br/>
 
