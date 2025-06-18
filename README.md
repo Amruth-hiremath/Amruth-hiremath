@@ -6,7 +6,7 @@
 
   <br/>
 
-  <img src="gif.gif" width="450" height="250"/>
+  <img src="cat_gif.gif" width="450" height="250"/>
 
   <br/>
 
