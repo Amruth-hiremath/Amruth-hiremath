@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 # 💫 **About Me**:
 
@@ -17,7 +16,6 @@
 <h4>⚡ Major: <strong>Cloud Computing</strong></h4>
 <h4>📊 Minor: <strong>AI & Data Science</strong></h4>
 <br>
----
 
 ## 🚀 **What I'm Into**
 
