@@ -61,7 +61,6 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Amruth-hiremath&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="55%"/>
 
    <img src="https://github-readme-stats.vercel.app/api?username=Amruth-hiremath&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-hiremath&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="35%"/>
