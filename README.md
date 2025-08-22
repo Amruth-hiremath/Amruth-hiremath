@@ -53,7 +53,7 @@
 |---------|-------------|-----------|
 | **[SensAura](https://github.com/Amruth-hiremath/SensAura)** | Object Detection and Navigation : Real-time object detection system with YOLOv8 | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" /> |
 | **[UniFind](https://github.com/Amruth-hiremath/UniFind)** | Campus lost & found network | <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" /> |
-| **[Formula Flicks](https://github.com/Amruth-hiremath/Formula-Flicks)** | F1-themed website with glowing UI | <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" /> |
+| **[Formula Flicks](https://github.com/Amruth-hiremath/Formula-Flicks)** | F1-themed website | <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" /> |
 
 ---
 
