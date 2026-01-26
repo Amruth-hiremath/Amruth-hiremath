@@ -61,7 +61,6 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 
 ### AI & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-1A73E8?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
