@@ -77,7 +77,6 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 - Built an AI-native platform for constructing and simulating **logic graphs (DAGs)**  
 - Designed a centralized **AI service layer** using the Google GenAI SDK  
 - Implemented **persona-driven reasoning** and **multimodal interaction (text + voice)**  
-- Deployed using **Google AI Studio** with preview-only Gemini models  
 
 ---
 
