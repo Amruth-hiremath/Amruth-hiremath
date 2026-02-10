@@ -55,6 +55,7 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 </p>
