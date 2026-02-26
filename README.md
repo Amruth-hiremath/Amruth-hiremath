@@ -12,7 +12,7 @@ I am a **B.Tech Computer Science undergraduate at RV University, Bangalore**, ma
 
 I enjoy building **AI-native systems**, interactive applications, and full-stack projects where **architecture, clarity, and explainability matter as much as functionality**.
 
-I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven reasoning engine using Google Gemini preview models.
+I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven reasoning engine purely using Google cloud based tools.
 
 ---
 
