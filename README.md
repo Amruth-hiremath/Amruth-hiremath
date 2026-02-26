@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amruthesh+C+Hiremath;Computer+Science+Undergraduate;AI+Systems+Builder+%7C+Hackathon+Winner" />
-
-<br>
-
-<img src="cat_gif.gif" width="420" height="230"/>
+<img src="Banner.gif" width="1200" height="300"/>
 <br><br>
 </div>
 
