@@ -76,7 +76,6 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 ## GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amruth-hiremath&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amruth-hiremath&layout=compact&theme=tokyonight" />
 </div>
 
 
