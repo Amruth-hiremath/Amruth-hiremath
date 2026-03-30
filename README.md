@@ -91,7 +91,8 @@ Generative AI systems, cloud-native architecture, educational technology, Formul
 
 <div>
   <a href="https://www.linkedin.com/in/amruthesh-c-hiremath-973b78336"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Amruth-hiremath"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://github.com/Amruth-hiremath"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_amruth_hiremath"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 </div>
 
 
