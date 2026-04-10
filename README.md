@@ -42,7 +42,7 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 
 | Miscellaneous |
 | :---: |
-| <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,vscode,notion,githubactions,figma,linux,cloudflare,arduino,eclipse&theme=light" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,githubactions,notion,figma,linux,cloudflare,arduino,eclipse,vercel,netlify,npm,vscode&theme=light" /> |
 </div>
 
 ---
