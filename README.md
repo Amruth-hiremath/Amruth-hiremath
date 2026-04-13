@@ -30,7 +30,7 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 
 | Languages | Frontend |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,py,c,cpp,mysql&theme=light" /> | <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light" /> |
+| <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,mysql&theme=light" /> | <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light" /> |
 
 <br>
 
