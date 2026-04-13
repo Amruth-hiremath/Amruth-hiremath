@@ -74,11 +74,23 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 ---
 
 ## GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amruth-hiremath&show_icons=true&theme=tokyonight" />
+
+  <!-- Top Row: Main Stats + Languages -->
+
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amruth-hiremath&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Amruth-hiremath&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+  <!-- Activity Graph -->
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amruth-hiremath&theme=tokyo-night&hide_border=true" />
+
+<br/><br/>
+
 </div>
-
-
 
 ---
 
@@ -98,4 +110,7 @@ Generative AI systems, cloud-native architecture, educational technology, Formul
 
 ---
 
-### **Build systems that can be explained, not just demoed.**
+<div align="center">
+  <!-- Quote -->
+  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
