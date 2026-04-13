@@ -48,6 +48,13 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 ---
 ## Featured Projects
 
+### GateKept — Campus Study Vault & Bounty Board
+- Built a native Android application for students to securely share, search, and rank university study materials (Notes & PYQs).
+- Engineered a real-time gamification system featuring a Campus Bounty Board and a dynamic Scholar Leaderboard.
+- Designed a dedicated Moderator Dashboard with a custom approval pipeline to ensure a spam-free, high-quality document feed.
+
+---
+
 ### Queryling.ai — AI-Native Reasoning Engine  
 **Winner, GDG Tech Sprint Hackathon 2026**
 
