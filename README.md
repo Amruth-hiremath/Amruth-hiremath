@@ -2,6 +2,11 @@
 
 <img src="Banner.gif" width="1200" height="300"/>
 <br><br>
+
+<a href="https://amrutheshportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Amruthesh_Hiremath-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7&labelColor=16161e" />
+</a>
+
 </div>
 
 ---
@@ -109,6 +114,9 @@ Generative AI systems, cloud-native architecture, educational technology, Formul
 ## Connect With Me
 
 <div>
+  <a href="https://amrutheshportfolio.vercel.app/" target="_blank">
+    <img src="favicon.png" height="45" alt="Portfolio"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amruthesh-c-hiremath-973b78336"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
   <a href="https://github.com/Amruth-hiremath"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_amruth_hiremath"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
