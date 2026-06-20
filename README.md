@@ -92,7 +92,7 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
   <!-- Top Row: Main Stats + Languages -->
 
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amruth-hiremath&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=Amruth-hiremath&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=amruth-hiremath&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
