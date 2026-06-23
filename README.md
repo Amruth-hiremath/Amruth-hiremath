@@ -53,6 +53,13 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 ---
 ## Featured Projects
 
+### InfraSketch — AI-Powered Cloud Architecture Platform
+- Built a full-stack platform for designing AWS cloud architectures with interactive drag-and-drop workflows using React Flow and MongoDB Atlas.
+- Implemented real-time cost estimation, architecture validation, reusable templates, and secure sharing with Firebase Authentication and JWT-based sessions.
+- Engineered a cloud-native deployment pipeline using Vercel, Render, and MongoDB Atlas for scalable infrastructure visualization.
+
+---
+
 ### GateKept — Campus Study Vault & Bounty Board
 - Built a native Android application for students to securely share, search, and rank university study materials (Notes & PYQs).
 - Engineered a real-time gamification system featuring a Campus Bounty Board and a dynamic Scholar Leaderboard.
