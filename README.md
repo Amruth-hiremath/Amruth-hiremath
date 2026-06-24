@@ -112,12 +112,6 @@ I recently won the **GDG Tech Sprint Hackathon 2026**, building an AI-driven rea
 </div>
 
 ---
-
-## Interests
-
-Generative AI systems, cloud-native architecture, educational technology, Formula 1 engineering
-
----
 ## Connect With Me
 
 <div>
